@@ -91,10 +91,9 @@ body {
   background-color: white;
 }
 .header_text{
-  background-color: black;
+  
   border-radius: 30%;
 }
 .btn{
   text-align: center;
-  margin-left: 225px;
-}
+ }
